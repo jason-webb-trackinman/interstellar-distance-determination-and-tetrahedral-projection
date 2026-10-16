@@ -26,9 +26,9 @@ This repository contains the primary technical document, supporting diagrams and
 
 ├── figures-diagrams/ ← Copies of PDF diagrams-figures in Vector and PNG.
 
--                             └──vector/  ← Copies of PDF Vector diagrams.
+  └──────────────vector/  ← Copies of PDF Vector diagrams.
 
--                             └── png/  ← Copies of PDF Figures (PNG Images).
+  └────────────── png/  ← Copies of PDF Figures (PNG Images).
 
 ├── README.md
 
