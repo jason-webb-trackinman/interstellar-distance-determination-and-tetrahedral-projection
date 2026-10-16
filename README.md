@@ -46,3 +46,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
+# PDF Viewing
+The PDF documents in this repository contain detailed vector-based technical diagrams. GitHub's built-in PDF preview may not render all diagram elements correctly.
+For accurate viewing, please download the PDF files and open them in a standard PDF reader or web browser. The downloaded files contain the complete diagrams and document content.
+
