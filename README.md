@@ -22,17 +22,17 @@ This repository contains the primary technical document, supporting diagrams and
 
 ## Supporting Documents
 
-├── document-portrait/ ← An alternative copy of the main PDF document, figures in portrait.
+├── document-portrait/ \# An alternative copy of the main PDF document, figures in portrait.
 
-├── figures-diagrams/ ← Copies of PDF diagrams-figures in Vector and PNG.
+├── figures-diagrams/   \#  Copies of PDF diagrams-figures in Vector and PNG.
 
-  └────────────── vector/  ← Copies of PDF Vector diagrams.
+│   ├── vector/             \#  Copies of PDF Vector diagrams.
 
-  └────────────── png/  ← Copies of PDF Figures (PNG Images).
+│   ├── png/                \#  Copies of PDF Figures (PNG Images).
 
-├── README.md
+├── README.md          \# Project landing page documentation
 
-└── LICENSE.md
+└── LICENSE.md          \# Open-source license terms
 
 # Citation
 
