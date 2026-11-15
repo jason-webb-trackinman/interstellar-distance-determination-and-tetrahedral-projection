@@ -25,8 +25,7 @@ This project introduces a calibrated **Reference Star methodology** paired with 
 
 Jason Webb Independent Researcher ORCID: [https://orcid.org/0009-0005-8903-8607](https://orcid.org/0009-0005-8903-8607)
 
-## November 2026 DOI: [https://doi.org/10.5281/zenodo.0000000](https://doi.org/10.5281/zenodo.0000000)
-
+## November 2026 DOI: [https://doi.org/10.5281/zenodo.24237323](https://doi.org/10.5281/zenodo.24237323)
 
 
 # Repository Purpose
