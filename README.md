@@ -42,7 +42,7 @@ This repository contains the primary technical document, supporting diagrams and
 ## Supporting Documents
 
 ├── document-portrait/ # An alternative copy of the main PDF document, figures in portrait. 
-├────────────────────  # 47A-interstellar-distance-determination-and-tetrahedral-projection-v1.0.8-P.pdf
+├───────  # 47A-interstellar-distance-determination-and-tetrahedral-projection-v1.0.8-P.pdf
 
 ├── diagrams-figures/  #  Copies of PDF diagrams-figures in Vector and PNG.
 
